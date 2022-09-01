@@ -1,3 +1,7 @@
 Test
 
+<<<<<<< HEAD
 Neuer Test
+=======
+Anderer Test
+>>>>>>> 6a11015c3d51a46a51a7f53a47831647bc6ad516
